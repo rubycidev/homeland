@@ -95,6 +95,8 @@ gem "bootsnap"
 
 gem "puma_worker_killer"
 
+gem 'ruby_ci'
+
 group :development do
   gem "byebug"
   gem "derailed_benchmarks"
